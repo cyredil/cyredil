@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cyredil</h1>
 <h3 align="center">Ex-math teacher</h3>
 
-- 🔭 I’m currently working on **improving my computer sciences skills**
+- 🔭 I’m currently working as a **Data Scientist Alternant** in **Crédit Agricole**
 
 - 🌱 I’m currently learning **R and advanced Python**
 
-- 👯 I’m looking to **an Data Science intership**
+- 👯 I’m looking to **develop intresting projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
